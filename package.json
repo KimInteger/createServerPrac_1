@@ -1,0 +1,19 @@
+{
+  "name": "createserverprac_1",
+  "version": "1.0.0",
+  "description": "\"오랜만에 서버 열기 연습\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimInteger/createServerPrac_1.git"
+  },
+  "author": "KimInteger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimInteger/createServerPrac_1/issues"
+  },
+  "homepage": "https://github.com/KimInteger/createServerPrac_1#readme"
+}
